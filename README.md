@@ -1,2 +1,2 @@
 # cs106b
-Some assignments from CS106B. Only fun ones. 
+My code for some assignments from CS106B. Only fun ones. Includes: Fauxtoshop, Boggle. 
